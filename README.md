@@ -94,6 +94,7 @@ Automated Market Maker (AMM) Protocols](https://arxiv.org/pdf/2103.12732.pdf) by
 - TBD
 
 # Tools 🔧
+- [ChartScout](https://chartscout.io/)
 - [CoinMarketCap](https://coinmarketcap.com/).
 - [CoinGecko](https://www.coingecko.com/).
 - [Messari](https://messari.io/research).
